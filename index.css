@@ -7,3 +7,12 @@
 .carousel-inner {
     height: 75vh;
   }
+.bg-gray-100
+{
+    border-color: black;
+    padding:20px;
+}
+.py-1 .px-3
+{
+    border-color: black;
+}
