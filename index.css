@@ -1,0 +1,9 @@
+.carousel-size
+{
+    border:30px auto;
+    padding:60px;
+    
+}
+.carousel-inner {
+    height: 75vh;
+  }
